@@ -18,7 +18,7 @@ Official announcement: [php.net security advisory](https://www.php.net/archive/2
 ```bash
 git clone https://github.com/lukd06/php-rce-check.git
 cd php-rce-check
-sudo ./php-rce-check.sh
+sudo bash ./php-rce-check.sh
 ```
 
 Or as a one-off without cloning:
